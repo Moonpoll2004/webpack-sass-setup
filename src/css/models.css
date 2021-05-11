@@ -1,0 +1,15 @@
+code {
+  min-width: 120px;
+  padding: 5px;
+}
+
+code, .light {
+  background-color: cadetblue;
+  color: #1a1415;
+}
+
+code, .dark {
+  background-color: #1a1415;
+  color: white;
+}
+/*# sourceMappingURL=models.css.map */

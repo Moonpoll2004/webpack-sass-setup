@@ -1,0 +1,47 @@
+.flex-container {
+  display: flex;
+}
+
+.js-center {
+  justify-content: center;
+}
+
+.al-center {
+  align-items: center;
+}
+
+.js-start {
+  justify-content: flex-start;
+}
+
+.al-start {
+  align-items: flex-start;
+}
+
+.full-page {
+  width: 100%;
+  height: 100vh;
+}
+
+code {
+  min-width: 120px;
+  padding: 5px;
+}
+
+code, .light {
+  background-color: cadetblue;
+  color: #1a1415;
+}
+
+code, .dark {
+  background-color: #1a1415;
+  color: white;
+}
+
+.app {
+  background-color: #333333;
+  color: white;
+  width: 100%;
+  height: 100vh;
+}
+/*# sourceMappingURL=main.css.map */

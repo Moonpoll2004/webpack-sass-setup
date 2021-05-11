@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,eAAe,CAAA;EACX,OAAO,EAAE,IAAI;CAChB;;AACD,AAAA,UAAU,CAAA;EACN,eAAe,EAAE,MAAM;CAC1B;;AACD,AAAA,UAAU,CAAA;EACN,WAAW,EAAE,MAAM;CACtB;;AACD,AAAA,SAAS,CAAA;EACL,eAAe,EAAE,UAAU;CAC9B;;AACD,AAAA,SAAS,CAAA;EACL,WAAW,EAAE,UAAU;CAC1B;;AAED,AAAA,UAAU,CAAA;EACN,KAAK,EAAC,IAAI;EACV,MAAM,EAAC,KAAK;CACf",
+    "sources": [
+        "../../sass/components/layout.scss"
+    ],
+    "names": [],
+    "file": "layout.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,SAAS,EAAC,KAAK;EACf,OAAO,EAAE,GAAG;CACf;;AAED,AAAA,IAAI,EAAG,MAAM,CAAA;EACT,gBAAgB,EAAE,SAAS;EAC3B,KAAK,EAAE,OAAO;CACjB;;AAED,AAAA,IAAI,EAAG,KAAK,CAAA;EACR,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../../sass/components/models.scss"
+    ],
+    "names": [],
+    "file": "models.css"
+}
